@@ -1,4 +1,8 @@
-### Hi there 👋
+_I pass beneath a fixed white line of trees
+where dry leaves lie for footsteps to dismember.
+They crackle with a muted sound like fear.
+I ask cold air, "**What is the word that frees?**"
+The wind says, "**Change**," and the white sun, "**Remember**."_
 
 <!--
 **chuzhov/chuzhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
