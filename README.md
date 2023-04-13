@@ -1,4 +1,4 @@
-⚡ HTML ⚡ SCSS ⚡ JS ⚡ REACT ⚡ REDUX ⚡ RestAPI ⚡ GraphQL ⚡ Node.js ⚡ MongoDB ⚡ Firebase ⚡ SQL ⚡ Python
+⚡ HTML ⚡ CSS ⚡ JS ⚡ REACT ⚡ REDUX ⚡ APIs ⚡ GraphQL ⚡ Node.js ⚡ MongoDB ⚡ Firebase ⚡ SQL ⚡ Python
 
 <!--
 **chuzhov/chuzhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
