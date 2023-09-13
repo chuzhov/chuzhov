@@ -1,5 +1,9 @@
-⚡ HTML ⚡ CSS ⚡ JS ⚡ REACT ⚡ RTK ⚡ APIs ⚡ GraphQL ⚡ Node.js ⚡ MongoDB ⚡ Firebase ⚡ SQL ⚡ Python
+Node.js ⚡ JS ⚡ APIs ⚡ MongoDB ⚡ Redis ⚡ Firebase ⚡ SQL ⚡ Python ⚡ REACT ⚡ HTML ⚡ CSS ⚡ GraphQL 
 
+- 🤔 I’m looking for a full-time job in full-stack engineering, data processing, and management of any kind 
+- 🌱 I’m currently learning different technologies, but I want to focus on something specific
+- 📫 Reach me at chuzhov🛟hotmail・com
+  
 <!--
 **chuzhov/chuzhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
