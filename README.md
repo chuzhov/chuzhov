@@ -1,7 +1,5 @@
-Node.js ⚡ JS ⚡ APIs ⚡ MongoDB ⚡ Redis ⚡ PostgreSQL ⚡ SQL ⚡ Python ⚡ REACT ⚡ HTML ⚡ CSS ⚡ GraphQL 
+Node.js ⚡ JS ⚡ APIs ⚡ MongoDB ⚡ Redis ⚡ PostgreSQL ⚡ SQL ⚡ Python ⚡ R ⚡ REACT ⚡ HTML ⚡ CSS ⚡ GraphQL 
 
-- 🤔 I’m looking for a full-time job in full-stack engineering, data processing, and management of any kind 
-- 🌱 I’m currently learning different technologies, but I want to focus on something specific
 - 📫 Reach me at chuzhov🛟hotmail・com
   
 <!--
