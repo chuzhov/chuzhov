@@ -1,4 +1,4 @@
-Node.js ⚡ JS ⚡ APIs ⚡ MongoDB ⚡ PostgreSQL ⚡ SQL ⚡ Python ⚡ R ⚡ REACT ⚡ HTML ⚡ CSS 
+Node.js ⚡ JS ⚡ APIs ⚡ MongoDB ⚡ PostgreSQL ⚡ SQL ⚡ Python ⚡ R ⚡ DAX ⚡ REACT ⚡ HTML ⚡ CSS 
 
 - 📫 Reach me at chuzhov🛟hotmail・com
   
